@@ -8,7 +8,7 @@ public class RandomGroups54{
         System.out.println("works fine");
 
         System.out.println(readStu());
-        System.out.println("V3");
+        System.out.println("V5");
         randGroups(readStu(), 5);
     }
 
