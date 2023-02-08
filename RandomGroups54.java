@@ -5,7 +5,10 @@ import java.util.Scanner;
 
 public class RandomGroups54{
     public static void main(String[] args) {
+        
         System.out.println("works fine");
+        System.out.println("The second Dev. edited here");
+
 
         System.out.println(readStu());
         System.out.println("V5");
